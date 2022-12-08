@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - LoveIt</title>
+        <link>https://example.com/posts/</link>
+        <description>All Posts | LoveIt</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yeepzhang@126.com (yeepzhang)</managingEditor>
+            <webMaster>yeepzhang@126.com (yeepzhang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>init</title>
+    <link>https://example.com/my-first-post/</link>
+    <pubDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</pubDate>
+    <author>yeepzhang</author>
+    <guid>https://example.com/my-first-post/</guid>
+    <description><![CDATA[落脚此处。]]></description>
+</item>
+</channel>
+</rss>
