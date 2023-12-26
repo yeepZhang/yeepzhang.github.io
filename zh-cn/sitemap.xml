@@ -14,7 +14,6 @@
             <loc>https://example.com/tags/emo/</loc><lastmod>2022-12-08T15:26:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://example.com/my-first-post/</loc><lastmod>2022-12-08T15:26:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://example.com/posts/</loc><lastmod>2022-12-08T15:26:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://example.com/my-second-post/</loc><lastmod>2022-12-08T15:26:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://example.com/tags/</loc><lastmod>2022-12-08T15:26:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -24,7 +23,6 @@
                     hreflang="zh-cn"
                     href="https://example.com/tags/"
                     /></url><url>
-            <loc>https://example.com/my-third-post/</loc><lastmod>2022-12-08T15:26:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://example.com/</loc><lastmod>2022-12-08T15:26:22&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"

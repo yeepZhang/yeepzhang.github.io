@@ -12,21 +12,5 @@
     <guid>https://example.com/my-first-post/</guid>
     <description><![CDATA[落脚此处。]]></description>
 </item>
-<item>
-    <title>second</title>
-    <link>https://example.com/my-second-post/</link>
-    <pubDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</pubDate>
-    <author>yeepzhang</author>
-    <guid>https://example.com/my-second-post/</guid>
-    <description><![CDATA[一年后。]]></description>
-</item>
-<item>
-    <title>test</title>
-    <link>https://example.com/my-third-post/</link>
-    <pubDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</pubDate>
-    <author>yeepzhang</author>
-    <guid>https://example.com/my-third-post/</guid>
-    <description><![CDATA[test]]></description>
-</item>
 </channel>
 </rss>
