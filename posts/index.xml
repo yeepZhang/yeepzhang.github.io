@@ -3,14 +3,21 @@
         <title>所有文章 - 没有响声</title>
         <link>https://example.com/posts/</link>
         <description>所有文章 | 没有响声</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yeepzhang@126.com (yeepzhang)</managingEditor>
-            <webMaster>yeepzhang@126.com (yeepzhang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>init</title>
     <link>https://example.com/my-first-post/</link>
     <pubDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</pubDate>
-    <author>yeepzhang</author>
+    <author>作者</author>
     <guid>https://example.com/my-first-post/</guid>
-    <description><![CDATA[落脚此处。]]></description>
+    <description><![CDATA[<p>落脚此处。</p>]]></description>
+</item>
+<item>
+    <title>init</title>
+    <link>https://example.com/return/</link>
+    <pubDate>Thu, 08 Dec 2022 15:26:22 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/return/</guid>
+    <description><![CDATA[<p>回来看看。</p>]]></description>
 </item>
 </channel>
 </rss>
